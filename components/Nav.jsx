@@ -106,7 +106,7 @@ const Nav = () => {
                     setToggleDropDown(false);
                     signOut();
                   }}
-                  classN ame='mt-5 w-full black_btn'
+                  className='mt-5 w-full black_btn'
                 >
                   Sign Out
                 </button>
